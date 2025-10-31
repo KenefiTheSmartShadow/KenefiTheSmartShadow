@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on OpenGL in C++<br>🌱 I’m currently learning OpenGL<br>⚡ Fun fact I will finish my CompSci degree 1 year early
+🔭 I’m currently working on OpenGL in C++<br>🌱 I’m currently learning OpenGL
 
 
 # 💻 Tech Stack:
